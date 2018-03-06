@@ -1,0 +1,24 @@
+body{
+    font-family: "Helvetica", sans-serif;
+    margin: 0;
+    background: #5b8dff;
+}
+
+h1{
+    text-align: center;
+    width: 100%;
+    font-weight: 700;
+    color: white;
+}
+
+div.fullHeight{
+    height: 100vh;
+    width: 100vw;
+
+    display: flex;
+    align-items: center;
+    vertical-align: center;
+    flex-align: center;
+
+    letter-spacing: -1px;
+}
